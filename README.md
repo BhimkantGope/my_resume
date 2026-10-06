@@ -1,2 +1,2 @@
 # My-Resume
-This is my updated resumeq
+This is my updated resume
